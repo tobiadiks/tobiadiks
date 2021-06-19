@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Redux**
 
-- 👨‍💻 All of my projects are available at [https://githib.com/tobiadiks](https://githib.com/tobiadiks)
+- 👨‍💻 All of my projects are available at [https://github.com/tobiadiks](https://githib.com/tobiadiks)
 
 - 📝 I regularly write articles on [Twitter https://twitter.com/RealTobiAdeleke](Twitter https://twitter.com/RealTobiAdeleke)
 

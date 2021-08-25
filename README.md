@@ -17,19 +17,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/realtobiadeleke" target="blank"><img src="https://img.shields.io/twitter/follow/realtobiadeleke?logo=twitter&style=for-the-badge" alt="realtobiadeleke" /></a> </p>
 
-- 🔭 I’m currently working on [WeatherBoom](https://weatherboom.netlify.app)
+- 🔭 I’m currently working on [Cstory](https://cstory.vercel.app)
 
-- 🌱 I’m currently learning **React Js & Node Js**
+- 👨‍💻 All of my projects are available at [https://github.com/tobiadiks](https://github.com/tobiadiks)
 
-- 👯 I’m looking to collaborate on **SaaSery**
-
-- 🤝 I’m looking for help with **Redux**
-
-- 👨‍💻 All of my projects are available at [https://github.com/tobiadiks](https://githib.com/tobiadiks)
-
-- 📝 I regularly write articles on [Twitter https://twitter.com/RealTobiAdeleke](Twitter https://twitter.com/RealTobiAdeleke)
-
-- 💬 Ask me about **JavaScript & CSS**
+- 📝 I regularly write articles on [Twitter](https://twitter.com/RealTobiAdeleke)
 
 - 📫 How to reach me **tobiadiks@gmail.com**
 

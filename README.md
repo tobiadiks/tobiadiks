@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/realtobiadeleke" target="blank"><img src="https://img.shields.io/twitter/follow/realtobiadeleke?logo=twitter&style=for-the-badge" alt="realtobiadeleke" /></a> </p>
 
-- 🔭 I’m currently working on [Cstory](https://cstory.vercel.app)
+- 🔭 I’m currently working on [Cstory](https://cstory.vercel.app) & [Numetrica](https://numetrica.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tobiadiks](https://github.com/tobiadiks)
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tobiadiks@gmail.com**
 
-- ⚡ Fun fact **I play piano so well.**
+- ⚡ Fun fact **I play piano so well as an hobby.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

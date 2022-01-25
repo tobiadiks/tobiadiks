@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Adeleke Oluwatobi</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <a href="https://twitter.com/realtobiadeleke" target="blank"><img src="https://img.shields.io/twitter/follow/realtobiadeleke?logo=twitter&style=for-the-badge" alt="realtobiadeleke" /></a> </p>
+<p align="left"> <a href="https://twitter.com/heyo_kage" target="blank"><img src="https://img.shields.io/twitter/follow/heyo_kage?logo=twitter&style=for-the-badge" alt="heyo_kage" /></a> </p>
 
-- 🔭 I’m currently working on [Cstory](https://cstory.vercel.app) & [Numetrica](https://numetrica.vercel.app)
+- 🔭 I’m currently working on [Notics](https://notics.vercel.app) & [KageUI](https://kage-ui.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tobiadiks](https://github.com/tobiadiks)
 
-- 📝 I regularly write articles on [Twitter](https://twitter.com/RealTobiAdeleke)
+- 📝 I regularly write articles on [Twitter](https://twitter.com/heyo_kage)
 
 - 📫 How to reach me **tobiadiks@gmail.com**
 

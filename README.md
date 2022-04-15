@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Adeleke Oluwatobi</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <a href="https://twitter.com/heyo_kage" target="blank"><img src="https://img.shields.io/twitter/follow/heyo_kage?logo=twitter&style=for-the-badge" alt="heyo_kage" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IATobi" target="blank"><img src="https://img.shields.io/twitter/follow/IATobi?logo=twitter&style=for-the-badge" alt="IATobi" /></a> </p>
 
 - 🔭 I’m currently working on [Notics](https://notics.vercel.app) & [KageUI](https://kage-ui.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tobiadiks](https://github.com/tobiadiks)
 
-- 📝 I regularly write articles on [Twitter](https://twitter.com/heyo_kage)
+- 📝 I regularly write articles on [Twitter](https://twitter.com/IATobi)
 
 - 📫 How to reach me **tobiadiks@gmail.com**
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tobiadiks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tobiadiks" height="30" width="40" /></a>
-<a href="https://twitter.com/realtobiadeleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realtobiadeleke" height="30" width="40" /></a>
+<a href="https://twitter.com/IATobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realtobiadeleke" height="30" width="40" /></a>
 <a href="https://fb.com/tobiadiks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tobiadiks" height="30" width="40" /></a>
 <a href="https://medium.com/@tobiadiks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tobiadiks" height="30" width="40" /></a>
 </p>

@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/IATobi" target="blank"><img src="https://img.shields.io/twitter/follow/IATobi?logo=twitter&style=for-the-badge" alt="IATobi" /></a> </p>
 
-- 🔭 I’m currently working on [Notics](https://notics.vercel.app) & [KageUI](https://kage-ui.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tobiadiks](https://github.com/tobiadiks)
 
